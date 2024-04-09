@@ -1,0 +1,171 @@
+{"tableStatus" : [
+    {
+      "table_id": 1,
+      "seating_capacity": 2,
+      "available": true,
+      "date" : 3,
+      "reserved": false,
+      "occupied": false,
+      "reservation": null
+    },
+    {
+      "table_id": 2,
+      "seating_capacity": 4,
+      "available": false,
+      "date" : 3,
+      "reserved": true,
+      "occupied": true,
+      "reservation": {
+        "from_time": "18:00",
+        "to_time": "20:00"
+      }
+    },
+    {
+        "table_id": 3,
+        "seating_capacity": 8,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": true,
+        "reservation": {
+          "from_time": "18:00",
+          "to_time": "20:00"
+        }
+      },
+      {
+        "table_id": 4,
+        "seating_capacity": 4,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": false,
+        "reservation": {
+          "from_time": "17:00",
+          "to_time": "18:00"
+        }
+      },
+      {
+        "table_id": 5,
+        "seating_capacity": 2,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": true,
+        "reservation": {
+          "from_time": "12:00",
+          "to_time": "13:00"
+        }
+      },
+      {
+        "table_id": 6,
+        "seating_capacity": 8,
+        "available": true,
+        "date" : 3,
+        "reserved": false,
+        "occupied": false,
+        "reservation": null
+      },
+      {
+        "table_id": 7,
+        "seating_capacity": 4,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": false,
+        "reservation": {
+          "from_time": "18:00",
+          "to_time": "20:00"
+        }
+      },
+      {
+        "table_id": 8,
+        "seating_capacity": 4,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": true,
+        "reservation": {
+          "from_time": "18:00",
+          "to_time": "20:00"
+        }
+      },
+      {
+        "table_id": 9,
+        "seating_capacity": 4,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": false,
+        "reservation": {
+          "from_time": "18:00",
+          "to_time": "20:00"
+        }
+      },
+      {
+        "table_id": 10,
+        "seating_capacity": 4,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": false,
+        "reservation": {
+          "from_time": "18:00",
+          "to_time": "20:00"
+        }
+      },
+      {
+        "table_id": 11,
+        "seating_capacity": 4,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": false,
+        "reservation": {
+          "from_time": "18:00",
+          "to_time": "20:00"
+        }
+      },
+      {
+        "table_id": 12,
+        "seating_capacity": 4,
+        "available": false,
+        "date" : 3,
+        "reserved": true,
+        "occupied": false,
+        "reservation": {
+          "from_time": "18:00",
+          "to_time": "20:00"
+        }
+      },
+    {
+      "table_id": 13,
+      "seating_capacity": 6,
+      "available": true,
+      "date" : 3,
+      "reserved": false,
+      "occupied": false,
+      "reservation": null
+    },
+    {
+      "table_id": 14,
+      "seating_capacity": 1,
+      "available": false,
+      "date" : 3,
+      "reserved": true,
+      "occupied": true,
+      "reservation": {
+        "from_time": "19:00",
+        "time": "20:00"  
+      }
+    },
+    {
+      "table_id": 15,
+      "seating_capacity": 8,
+      "available": true,
+      "date" : 3,
+      "reserved": false,
+      "occupied": false,
+      "reservation": null
+    }
+  ]
+}
